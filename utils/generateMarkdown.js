@@ -3,7 +3,7 @@ function generateMarkdown(response) {
   return `# ${response.title}
 
 ## Github userName :
-${response.github}
+${response.username}
 
 ### Table of content :
 
@@ -16,19 +16,19 @@ ${response.description}
 ##### required license for the project:
 ${response.license}
  
-###### Required command to install the programme :
+##### Required command to install the programme :
 ${response.installation}
 
-####### Required command to test the programme :
+##### Required command to test the programme :
 ${response.test}
 
-######## Required command to install the programme :
+##### Required command to install the programme :
 ${response.installation}
 
-######## Info for users to contribute to this programme :
+##### Info for users to contribute to this programme :
 ${response.installation}
 
-######## if you have any questions about the programme fell free to reachout to me at : ${response.questioncontact}
+#### if you have any questions about the programme fell free to reachout to me at : ${response.questioncontact}
 
 `;
 

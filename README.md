@@ -1,9 +1,30 @@
-# readmegen_7
+# readme generator
 
-Description :
-This a programme to generate the professional readme file. the program was developed such that users are prompted with series of question as we can see on the file. The users
-input generate a Readme.md file. the series of question are asked in such  a way that its describes the whole programme in detail hence, making the file very professional.
-The programme is run throught the terminal via node. The program can also be tested witha few command line.
+## Github userName :
+undefined
 
-Required installation for contributor :
-the program might require some installation which can be simply to done by the comand "npm install". This will hellp pull down all the necessary dependencies.
+### Table of content :
+
+#### description :
+this program is used to generate a proffesional rad me file
+
+#### Contact :
+ Fell free to reach out to me at this email here : chandbishank@gmail.com.
+
+##### required license for the project:
+MIT
+ 
+###### Required command to install the programme :
+npm i
+
+####### Required command to test the programme :
+mpm test
+
+######## Required command to install the programme :
+npm i
+
+######## Info for users to contribute to this programme :
+npm i
+
+######## if you have any questions about the programme fell free to reachout to me at : chandbishank@gmailcom
+
